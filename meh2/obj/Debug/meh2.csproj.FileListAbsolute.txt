@@ -1,0 +1,13 @@
+D:\IS Project 2\meh2\meh2\bin\Debug\meh2.exe.config
+D:\IS Project 2\meh2\meh2\bin\Debug\meh2.exe
+D:\IS Project 2\meh2\meh2\bin\Debug\meh2.pdb
+D:\IS Project 2\meh2\meh2\obj\Debug\meh2.csprojResolveAssemblyReference.cache
+D:\IS Project 2\meh2\meh2\obj\Debug\meh2.Form1.resources
+D:\IS Project 2\meh2\meh2\obj\Debug\meh2.Properties.Resources.resources
+D:\IS Project 2\meh2\meh2\obj\Debug\meh2.csproj.GenerateResource.Cache
+D:\IS Project 2\meh2\meh2\obj\Debug\meh2.csproj.CoreCompileInputs.cache
+D:\IS Project 2\meh2\meh2\obj\Debug\meh2.exe
+D:\IS Project 2\meh2\meh2\obj\Debug\meh2.pdb
+D:\IS Project 2\meh2\meh2\bin\Debug\System.Data.SQLite.dll
+D:\IS Project 2\meh2\meh2\bin\Debug\System.Data.SQLite.xml
+D:\IS Project 2\meh2\meh2\bin\Debug\System.Data.SQLite.dll.config
